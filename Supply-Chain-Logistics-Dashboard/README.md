@@ -1,58 +1,60 @@
-# Supply Chain Shipment Logistics Analysis
+# Bike Share Usage Analysis
 
 ## Overview
 
-This project uses Tableau to analyze global supply chain purchasing and shipment data. The objective was to identify trends in freight costs, shipment methods, purchasing activity, and product distribution while developing an interactive dashboard to support logistics and supply chain decision-making.
+This project uses Tableau to analyze bike-sharing rental data. The objective was to identify how temperature, seasonality, and calendar effects influence rider demand while developing visualizations to uncover trends in customer behavior and rental activity.
 
 ## Tools Used
 
 Tableau
 Data Visualization
-Dashboard Development
-Supply Chain Analytics
+Statistical Analysis
+Trend Modeling
 
 ## Business Questions
 
-### Which countries account for the highest purchasing activity?
+### How does temperature impact bike rental demand?
 
-Used geographic mapping to visualize purchasing volume and identify regions with the greatest procurement spending.
+Analyzed the relationship between temperature and bike rental activity using linear, exponential, and polynomial trend models.
 
-### How do freight costs relate to shipment weight?
+### Does the relationship between temperature and rentals vary by season?
 
-Analyzed the relationship between shipment weight and freight cost across multiple transportation methods.
+Compared rental demand across winter, spring, summer, and fall to determine how seasonal conditions influence rider behavior.
 
-### Which product groups represent the largest share of purchases?
+### Is there a temperature threshold where rental demand levels off?
 
-Used treemap visualizations to compare purchasing activity across product groups and manufacturing locations.
+Evaluated rental activity above and below 65°F to identify whether demand continues increasing at higher temperatures.
 
-### How do shipment volumes differ by brand?
+### How do rental patterns vary throughout the year?
 
-Examined shipment counts by brand to identify distribution patterns and transportation preferences.
+Used heatmaps and trend analysis to identify monthly, weekly, and seasonal usage patterns among riders.
 
-### What shipment methods are used most frequently?
+### How has rider activity changed over time?
 
-Calculated shipment distribution percentages to compare Air, Air Charter, Ocean, and Truck transportation methods.
+Examined quarterly rental trends to compare rider activity across multiple years and identify growth patterns.
 
 ## Tableau Techniques Demonstrated
 
-- Geographic Mapping
-- Treemaps
-- Scatter Plots
-- Bar Charts
-- Pie Charts
-- Calculated Fields
-- Interactive Dashboard Design
+* Heatmaps
+* Scatter Plots
+* Trend Lines
+* Exponential Modeling
+* Polynomial Modeling
+* Bar Charts
+* Calculated Fields
+* Dashboard Development
 
 ## Skills Demonstrated
 
-- Data Visualization
-- Supply Chain Analytics
-- Logistics Analysis
-- Business Intelligence
-- Dashboard Development
-- Geographic Analysis
-- KPI Reporting
-- Data Storytelling
+* Data Visualization
+* Statistical Analysis
+* Trend Analysis
+* Business Intelligence
+* Dashboard Development
+* Exploratory Data Analysis
+* KPI Reporting
+* Data Storytelling
+
 
 ## Tableau Dashboard
 
