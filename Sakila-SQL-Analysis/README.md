@@ -50,20 +50,20 @@ Examined international customer distribution using customer, address, city, and 
 
 ## Query 1: Actor Film Analysis
 
-![Actor Analysis](actor-film-counts.png.png)
+![Actor Analysis](actor-film-counts.png)
 
 ## Query 2: Store Inventory Analysis
 
-![Store Inventory](query-2-store-inventory-analysis.png)
+![Store Inventory](store-inventory-analysis.png)
 
 ## Query 3: Category Revenue Analysis
 
-![Category Revenue](query-3-category-revenue-analysis.png)
+![Category Revenue](category-revenue-analysis.png)
 
 ## Query 4: Store Performance Analysis
 
-![Store Performance](query-4-store-performance-analysis.png)
+![Store Performance](store-rental-performance-results.png)
 
 ## Query 5: Customer Geography Analysis
 
-![Customer Geography](query-5-customer-geography-analysis.png)
+![Customer Geography](customer-geography-analysis.png)
