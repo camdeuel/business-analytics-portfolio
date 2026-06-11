@@ -1,48 +1,47 @@
-# Bike Share Usage Analysis
+# Bike Share Analysis
 
 ## Overview
-This project analyzes bike-sharing rental data to determine how temperature, seasonality, and calendar effects influence rider demand.
+
+This project uses Tableau and R to analyze bike-sharing rental data and identify how temperature, seasonality, weather conditions, and calendar effects influence rider demand.
 
 ## Tools Used
-- Tableau
-- Statistical Analysis
 
-## Key Findings
-- Temperature strongly impacts rental demand
-- Demand plateaus above 65°F
-- Winter shows the strongest temperature-demand relationship
+* Tableau
+* R
+* Data Visualization
+* Statistical Analysis
+* Correlation Analysis
 
-# Bike Share Usage Analysis
+## Business Questions
 
-## Overview
-This project analyzes how temperature and seasonality influence bike rental demand.
+### How does temperature impact bike rental demand?
 
-## Key Finding #1: Temperature Drives Demand
+Evaluated the relationship between temperature and rental activity using trend modeling and correlation analysis.
 
-An exponential model better explained the relationship between temperature and non-registered rider demand than a linear model.
+### Do seasonal conditions influence rider behavior?
 
-### Linear Model
-![Linear Model](images/nonregistered-rentals-linear-model.png)
+Compared rental demand and environmental relationships across winter, spring, summer, and fall.
 
-### Exponential Model
-![Exponential Model](images/nonregistered-rentals-exponential-model.png)
+### Which factors have the strongest relationship with bike rental demand?
 
-## Key Finding #2: Seasonal Differences
+Analyzed correlations between rental activity, temperature, humidity, and windspeed.
 
-Temperature had the strongest impact on rentals during winter and the weakest impact during summer.
+## Project Components
 
-![Seasonal Analysis](images/seasonal-temperature-analysis.png)
+### Tableau Analysis
 
-## Key Finding #3: Demand Plateaus Above 65°F
+Explored rental trends, temperature relationships, seasonal patterns, and rider behavior through interactive visualizations and dashboard development.
 
-Rental growth was strong below 65°F but much weaker above that threshold.
+### R Correlation Analysis
 
-![Temperature Threshold Analysis](images/temperature-threshold-analysis.png)
+Used correlograms and correlation analysis to examine relationships between rental activity and environmental variables across all seasons.
 
-## Additional Visualizations
+## Skills Demonstrated
 
-### Heatmap
-![Heatmap](images/nonregistered-rider-heatmap.png)
-
-### Quarterly Rental Trends
-![Quarterly Trends](images/bike-rental-quarterly-trends.png)
+* Tableau Dashboard Development
+* R Programming
+* Statistical Analysis
+* Correlation Analysis
+* Data Visualization
+* Exploratory Data Analysis
+* Data Storytelling
