@@ -66,4 +66,4 @@ Examined international customer distribution using customer, address, city, and 
 
 ## Query 5: Customer Geography Analysis
 
-![Customer Geography](customer-geography-analysis.png)
+![Customer Geography](customer-geography-results.png)
